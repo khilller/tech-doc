@@ -107,17 +107,17 @@
   }
   
   .nav-link {
-  border-bottom: solid white 1px;
-  color: #25405B;
-  text-decoration: none;
-  padding: 20px 10px 20px 50px;
-  font-size: 16px;
-}
-  
+    border-bottom: solid white 1px;
+    color: #25405B;
+    text-decoration: none;
+    padding: 20px 10px 20px 50px;
+    font-size: 16px;
+  }
+
   #main-doc {
-  border-top: solid white 1px;
-  overflow: auto;
-}
+    border: none;
+    border-top: solid white 3px;
+  }
   .main-section h1{
   font-weight: 800;
   margin-left: 30px;
@@ -131,7 +131,7 @@
  
   .main-section code {
   padding: 10px;
-}
+  }
   
   .code-box {
     overflow: auto;
@@ -140,7 +140,7 @@
   .main-section ul{
     font-size: 14px;
     margin-left: 40px;
-}
+  }
  
   .zero-dot li{
   margin-left: -70px;
